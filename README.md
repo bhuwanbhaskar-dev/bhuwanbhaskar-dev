@@ -7,7 +7,7 @@ I use this space to test, break, and learn new things — especially around the 
 
 ### 🎮 Playing with
 
-![Playing with](https://skillicons.dev/icons?i=aem,adobe,firefly,claude,chatgpt,cursor,github,copilot,python,js,ts,html,css,react,vercel,cloudfare,fastly,obsidian,notion,ai,figma,jira&theme=dark&perline=9)
+![Playing with](https://skillicons.dev/icons?i=adobe,claude,chatgpt,cursor,github,copilot,python,js,ts,html,css,react,vercel,cloudflare,obsidian,notion,ai,figma,jira&theme=dark&perline=8)
 
 ---
 
