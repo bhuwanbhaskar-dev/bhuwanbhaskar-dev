@@ -22,5 +22,4 @@ I distill experiments into short POCs. Every post comes from something I shipped
 
 **Feel free to explore, fork, or open issues** if any experiment sparks an idea!
 
-📍 Bengaluru, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhuwanbhaskar10)
+📍 Bengaluru, India
