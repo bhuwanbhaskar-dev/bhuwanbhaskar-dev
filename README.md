@@ -1,32 +1,37 @@
 # 👋 Bhuwan Bhaskar’s Dev Lab
 
-This is my **personal experimentation playground** (`bhuwanbhaskar-dev`).
-
-I use this space to test, break, and learn new things around:
-
-### 🧪 Current Experiment Areas
-- **Adobe Experience Manager (AEM)**  
-  Cloud SDK, 6.5 on-prem, Core Components, Sling Models, OSGi, custom workflows
-- **Generative AI in Adobe Ecosystem**  
-  Firefly integrations, custom GenAI prompts in AEM, Content Fragments + AI
-- **Adobe Target**  
-  Personalization experiments, A/B testing, Target + AEM integration, at.js vs Alloy
-
-### Why this repo exists
-- Quick proof-of-concepts    
-- Learning notes, failed attempts, and “it finally worked” moments
-
-### What you’ll find here
-- POC but working code
-- Experiment screenshots & logs
+This is my **personal experimentation playground**.  
+I use this space to test, break, and learn new things — especially around the Adobe ecosystem (AEM + Generative AI).
 
 ---
 
-**Currently experimenting with:**
-- AEM Cloud SDK + GenAI
-- Adobe Target + AEM personalization use cases
+### 🎮 Playing with
 
-Feel free to explore, fork, or open issues if something sparks an idea!
+![Playing with](https://skillicons.dev/icons?i=aem,adobe,firefly,claude,chatgpt,cursor,github,copilot,python,js,ts,html,css,react,vercel,cloudfare,fastly,obsidian,notion,ai,figma,jira&theme=dark&perline=9)
+
+---
+
+### 🔨 Currently Experimenting
+
+- **AEM Cloud SDK + Generative AI** — Integrating Adobe Firefly, custom prompts, Content Fragments & Components  
+- **Adobe Target Personalization** — Building AEM + Target experiments (rule-based & AI-driven, at.js vs Alloy)  
+- **GenAI in Adobe Ecosystem** — Prompt engineering, automation, and creative workflows using Firefly
+
+---
+
+### Why this repo exists
+- Quick proof-of-concepts (POCs)  
+- Documenting learning notes, failed attempts, and “it finally worked” moments  
+- Transparent experimentation
+
+### What you’ll find here
+- Working POC code  
+- Experiment screenshots, logs & setup guides  
+- Real integration examples between AEM, Target, and Firefly
+
+---
+
+**Feel free to explore, fork, or open issues** if something sparks an idea!
 
 📍 Bengaluru, India  
-🔗 Clean professional profile → [bhuwanbhaskar10](https://github.com/bhuwanbhaskar10)
+🔗 [LinkedIn](https://www.linkedin.com/in/bhuwanbhaskar10)
